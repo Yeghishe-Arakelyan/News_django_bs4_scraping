@@ -1,0 +1,92 @@
+[
+  {
+    "headlines": "Windows 11: A guide to the updates",
+    "sub_headlines": "Here\u2019s what you need to know about the latest updates to Windows 11 as they\u2019re released from Microsoft. Now updated for KB5030310 Preview, released on Sept. 26, 2023.",
+    "link": "https://www.computerworld.com//article/3636790/windows-11-a-guide-to-the-updates.html"
+  },
+  {
+    "headlines": "Windows 11 Insider Previews: What\u2019s in the latest build?",
+    "sub_headlines": "Get the latest info on new preview builds of Windows 11 as they roll out to Windows Insiders. Now updated for Build 22621.2361 for the Release Preview Channel and Build 23550 for the Dev Channel, both released on Sept. 22, 2023.",
+    "link": "https://www.computerworld.com//article/3623370/windows-11-insider-previews-whats-in-latest-build.html"
+  },
+  {
+    "headlines": "How to fix Windows 10 and 11 printing problems",
+    "sub_headlines": "Although Windows 10 and 11 are generally stable, printer issues do occur from time to time. Here are some tips to work around typical Windows print gotchas.",
+    "link": "https://www.computerworld.com//article/3012217/how-to-fix-printing-problems-windows-10-windows-11.html"
+  },
+  {
+    "headlines": "The AI future of Windows is here",
+    "sub_headlines": "Forget Windows 12: Microsoft\u2019s big AI push is starting on your current Windows 11 PC on Sept. 26.",
+    "link": "https://www.computerworld.com//article/3707254/microsoft-windows-ai-future.html"
+  },
+  {
+    "headlines": "Critical updates for Microsoft Office and Visual Studio drive September's Patch Tuesday",
+    "sub_headlines": "Microsoft this week rolled out 59 updates with its Patch Tuesday update, including critical patches for Microsoft Office and Visual Studio.",
+    "link": "https://www.computerworld.com//article/3707069/critical-updates-for-microsoft-office-and-visual-studio-drive-septembers-patch-tuesday.html"
+  },
+  {
+    "headlines": "5 steps to a lean, clean Windows machine",
+    "sub_headlines": "Performing a regular disk-cleaning regimen frees up precious storage space and helps keep Windows 10 or 11 operating smoothly. Follow some or all of these steps to get yourself a lean, clean machine.",
+    "link": "https://www.computerworld.com//article/3696315/how-to-clean-windows-computer-disk-cleanup.html"
+  },
+  {
+    "headlines": "Windows desktop apps are the future (with or without Windows)",
+    "sub_headlines": "From cloud PCs and smart TVs to Chromebooks, Macs, and Linux systems, everyone is betting on traditional Windows desktop applications.",
+    "link": "https://www.computerworld.com//article/3705990/windows-desktop-apps-are-the-future-with-or-without-windows.html"
+  },
+  {
+    "headlines": "How to share a Windows 10 or 11 PC",
+    "sub_headlines": "Need to share a PC among employees or temporary workers at the office, or with family members at home? No problem \u2014 here's how to do it.",
+    "link": "https://www.computerworld.com//article/3046707/how-to-share-a-windows-10-or-11-pc.html"
+  },
+  {
+    "headlines": "Windows on Mac improves for professional environments",
+    "sub_headlines": "Highlights of the latest Parallels Desktop release include TouchID support for Windows, much improved Intune enrollment, and remote access to VM instances in the cloud.",
+    "link": "https://www.computerworld.com//article/3705037/windows-on-mac-improves-for-professional-environments.html"
+  },
+  {
+    "headlines": "The line-blurring brilliance of Google's new ChromeOS-Windows connection",
+    "sub_headlines": "Google's latest ChromeOS improvement brings Windows apps even closer to the heart of the operating system \u2014 with a very Googley twist.",
+    "link": "https://www.computerworld.com//article/3704991/google-chromeos-windows-connection.html"
+  },
+  {
+    "headlines": "Should you upgrade to Windows 11? It\u2019s complicated",
+    "sub_headlines": "The choice is yours \u2013 but it also depends on your hardware. Some PCs shouldn\u2019t run Windows 11, and others shouldn\u2019t run Windows 10.",
+    "link": "https://www.computerworld.com//article/3704812/should-you-upgrade-to-windows-11.html"
+  },
+  {
+    "headlines": "Microsoft cheat sheets: Dive into Windows and Office apps",
+    "sub_headlines": "These guides will help you find your way around several generations of Microsoft\u2019s Office apps for Windows \u2014 and Windows itself.",
+    "link": "https://www.computerworld.com//article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html"
+  },
+  {
+    "headlines": "Patch Tuesday: Microsoft rolls out 90 updates for Windows, Office",
+    "sub_headlines": "Microsoft released 90 updates for the Windows and Office platforms this week along with another update for Microsoft Exchange \u2014 paired with a warning about failed updates to Exchange Server 2016 and 2019.",
+    "link": "https://www.computerworld.com//article/3704493/patch-tuesday-microsoft-rolls-out-90-updates-for-windows-office.html"
+  },
+  {
+    "headlines": "Windows 10 Insider Previews: A guide to the builds",
+    "sub_headlines": "Get the latest info on new preview builds for Windows 10 22H2 as they roll out from Microsoft. Now updated for 19045.3391 (KB5029331) for the Release Preview Channel, released on Aug. 10, 2023.",
+    "link": "https://www.computerworld.com//article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html"
+  },
+  {
+    "headlines": "Make multitasking a Snap on your Windows PC",
+    "sub_headlines": "Here\u2019s how to put your Windows PC\u2019s ultimate multitasking feature to use \u2014 and how to go beyond it for even more power, whether you\u2019re using Windows 11 or Windows 10.",
+    "link": "https://www.computerworld.com//article/3703868/make-multitasking-a-snap-on-your-windows-pc.html"
+  },
+  {
+    "headlines": "Drive cloning in Windows 10 and 11",
+    "sub_headlines": "In workplace practice, disk cloning supports various valuable uses. Learn how to clone a drive in Windows 10 or 11 using two recommended tools.",
+    "link": "https://www.computerworld.com//article/3168777/drive-cloning-windows-how-to.html"
+  },
+  {
+    "headlines": "\u2018Windows is a declining ecosystem,' Jamf CEO says",
+    "sub_headlines": "Dean Hager argues that Windows is on its way out: \u201cOrganizations must realize that in 10 years\u2019 time, Windows will not be the dominant ecosystem.\"",
+    "link": "https://www.computerworld.com//article/3703289/windows-is-a-declining-ecosystem-jamf-ceo-says.html"
+  },
+  {
+    "headlines": "8 ways to be more productive in Windows 11",
+    "sub_headlines": "Think Windows 11 can\u2019t give you a productivity boost? Think again. Try these tips to get more accomplished in less time.",
+    "link": "https://www.computerworld.com//article/3702652/windows-11-productivity-tips.html"
+  }
+]
